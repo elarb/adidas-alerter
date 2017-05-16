@@ -49,6 +49,7 @@ Note: As of now, this has only been tested with shoes.
 Todo
 --------
 - Sizes for US, CA, AU, UK
+- Execute silently (in background)
 - Improve command line arguments
 - Make it even easier to add products to tracking
 - let the user manage a list

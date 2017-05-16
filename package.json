@@ -1,0 +1,21 @@
+{
+  "name": "adidas-alerter",
+  "version": "1.0.0",
+  "description": "Gives an alert when a tracked adidas product is in stock again.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elarb/adidas-alerter"
+  },
+  "bugs": {
+    "url": "https://github.com/elarb/adidas-alerter/issues"
+  },
+  "author": "elarb",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-notifier": "^5.1.2",
+    "opn": "^5.0.0",
+    "request": "latest"
+  }
+}

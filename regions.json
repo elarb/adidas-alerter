@@ -1,0 +1,120 @@
+{
+  "US": {
+    "domain": "adidas.com/us",
+    "sslEnabled": false,
+    "languageCode": "en_US",
+    "mediaDomain": "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwbe678954/zoom/",
+    "clientStockUrl": "https://production-us-adidasgroup.demandware.net/s/adidas-US/dw/shop/v15_6/products/",
+    "variantStockUrl": "http://www.adidas.com/on/demandware.store/Sites-adidas-US-Site/en_US/Product-GetVariants",
+    "clientIds": [
+      "bb1e6193-3c86-481e-a440-0d818af5f3c8"
+    ]
+  },
+  "CA": {
+    "domain": "adidas.ca",
+    "sslEnabled": false,
+    "languageCode": "en_CA",
+    "mediaDomain": "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwd2af1885/zoom/",
+    "clientStockUrl": "https://production-us-adidasgroup.demandware.net/s/adidas-CA/dw/shop/v15_6/products/",
+    "variantStockUrl": "http://www.adidas.ca/on/demandware.store/Sites-adidas-CA-Site/en_CA/Product-GetVariants",
+    "clientIds": [
+      "5e396c6-5589-425b-be03-774c21a74702"
+    ]
+  },
+  "AU": {
+    "countryDomain": "adidas.com.au",
+    "sslEnabled": false,
+    "languageCode": "en_AU",
+    "mediaDomain": "http://demandware.edgesuite.net/sits_pod14-adidas/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw9c33f40c/zoom/",
+    "clientStockUrl": "http://production.store.adidasgroup.demandware.net/s/adidas-AU/dw/shop/v16_9/products/",
+    "variantStockUrl": "http://www.adidas.com.au/on/demandware.store/Sites-adidas-AU-Site/en_AU/Product-GetVariants",
+    "clientIds": [
+      "75e396c6-5589-425b-be03-774c21a74702"
+    ]
+  },
+  "UK": {
+    "domain": "adidas.co.uk",
+    "sslEnabled": false,
+    "languageCode": "en_GB",
+    "mediaDomain": "http://demandware.edgesuite.net/sits_pod14-adidas/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw61d1f696/zoom/",
+    "clientStockUrl": "http://production.store.adidasgroup.demandware.net/s/adidas-GB/dw/shop/v16_9/products/",
+    "variantStockUrl": "http://www.adidas.nl/on/demandware.store/Sites-adidas-GB-Site/nl_NL/Product-GetVariants",
+    "clientIds": [
+      "2904a24b-e4b4-4ef7-89a4-2ebd2d175dde"
+    ]
+  },
+  "DE": {
+    "domain": "adidas.de",
+    "sslEnabled": false,
+    "languageCode": "de_DE",
+    "mediaDomain": "http://demandware.edgesuite.net/sits_pod14-adidas/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw61d1f696/zoom/",
+    "clientStockUrl": "http://production.store.adidasgroup.demandware.net/s/adidas-DE/dw/shop/v16_9/products/",
+    "variantStockUrl": "http://www.adidas.nl/on/demandware.store/Sites-adidas-DE-Site/de_DE/Product-GetVariants",
+    "clientIds": [
+      "2904a24b-e4b4-4ef7-89a4-2ebd2d175dde"
+    ],
+    "sizes": {
+      "530": "36",
+      "540": "36 2/3",
+      "550": "37 1/3",
+      "560": "38",
+      "570": "38 2/3",
+      "580": "39 1/3",
+      "590": "40",
+      "600": "40 2/3",
+      "610": "41 1/3",
+      "620": "42",
+      "630": "42 2/3",
+      "640": "43 1/3",
+      "650": "44",
+      "660": "44 2/3",
+      "670": "45 1/3",
+      "680": "46",
+      "690": "46 2/3",
+      "700": "47 1/3",
+      "710": "48",
+      "730": "49 1/3",
+      "750": "50 2/3",
+      "760": "51 1/3",
+      "780": "52 2/3",
+      "790": "53 1/3"
+    }
+  },
+  "NL": {
+    "domain": "adidas.nl",
+    "sslEnabled": false,
+    "languageCode": "nl_NL",
+    "mediaDomain": "http://demandware.edgesuite.net/sits_pod14-adidas/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw61d1f696/zoom/",
+    "clientStockUrl": "http://production.store.adidasgroup.demandware.net/s/adidas-NL/dw/shop/v16_9/products/",
+    "variantStockUrl": "http://www.adidas.nl/on/demandware.store/Sites-adidas-NL-Site/nl_NL/Product-GetVariants",
+    "clientIds": [
+      "2904a24b-e4b4-4ef7-89a4-2ebd2d175dde"
+    ],
+    "sizes": {
+      "530": "36",
+      "540": "36 2/3",
+      "550": "37 1/3",
+      "560": "38",
+      "570": "38 2/3",
+      "580": "39 1/3",
+      "590": "40",
+      "600": "40 2/3",
+      "610": "41 1/3",
+      "620": "42",
+      "630": "42 2/3",
+      "640": "43 1/3",
+      "650": "44",
+      "660": "44 2/3",
+      "670": "45 1/3",
+      "680": "46",
+      "690": "46 2/3",
+      "700": "47 1/3",
+      "710": "48",
+      "730": "49 1/3",
+      "750": "50 2/3",
+      "760": "51 1/3",
+      "780": "52 2/3",
+      "790": "53 1/3"
+    }
+  }
+}

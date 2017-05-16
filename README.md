@@ -8,12 +8,12 @@ Features
 - Tracked products are being stored
 - Updates the availability status every minute
 
-![](http://i.imgur.com/VkKXFFE.png)
+![](http://i.imgur.com/Orvw2Qd.png)
 
 How?
 --------
 1. Clone or download this repository
-2. Open the terminal window and with the terminal, go to the directory where app.js is located
+2. Open a terminal window and with the terminal, go to the directory where app.js is located
 ```
 $ cd adidas-alerter 
 ```

@@ -10,6 +10,13 @@ Features
 
 ![](http://i.imgur.com/Orvw2Qd.png)
 
+Prerequisites
+-------------
+
+[<img src="https://nodejs.org/static/apple-touch-icon.png" align="top" height="35px">](http://nodejs.org)
+
+Tip for Windows users:  [cmder](http://cmder.net/) is a great replacement for the Windows Command Prompt. 
+
 How?
 --------
 1. Clone or download this repository
@@ -54,9 +61,3 @@ Todo
 :x: Make it even easier to add products to tracking  
 :x: Let the user manage a list  
 
-Prerequisites
--------------
-
-- [<img src="https://nodejs.org/static/apple-touch-icon.png" align="top" height="35px">](http://nodejs.org)
-
-Tip for Windows users:  [cmder](http://cmder.net/) is a great replacement for the Windows Command Prompt. 

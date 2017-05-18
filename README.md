@@ -3,10 +3,10 @@ Gives an alert when a tracked adidas product is in stock again.
 
 Features
 --------
-- Push notifications 
-- Automatically opens a link when the product is available 
-- Tracked products are being stored
-- Updates the availability status every minute
+:white_check_mark: Push notifications  
+:white_check_mark: Automatically opens a link when the product is available   
+:white_check_mark: Tracked products are being stored  
+:white_check_mark: Updates the availability status every minute 
 
 ![](http://i.imgur.com/Orvw2Qd.png)
 
@@ -48,11 +48,11 @@ Note: As of now, this has only been tested with shoes.
 
 Todo
 --------
-- Sizes for US, CA, AU, UK
-- Execute silently (in background)
-- Improve command line arguments
-- Make it even easier to add products to tracking
-- Let the user manage a list
+:x: Sizes for US, CA, AU, UK  
+:x: Execute silently (in background)  
+:x: Improve command line arguments  
+:x: Make it even easier to add products to tracking  
+:x: Let the user manage a list  
 
 Prerequisites
 -------------

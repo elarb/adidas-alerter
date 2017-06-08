@@ -52,7 +52,6 @@ let variantCheck = (product) => {
         url: url,
         json: true
     }, (error, response, body) => {
-        console.log(body.variations.variants);
         // TODO: replace with function verifying data (clientID, etc.)
         if (body.variations.variants === undefined) {
             //prettyPrint('Could not retrieve info for ' + product);
@@ -62,7 +61,6 @@ let variantCheck = (product) => {
     });
 
     let checkData = (variants) => {
-        console.log(variants);
         let stockCount = 0;
         let found = false;
 
@@ -84,7 +82,6 @@ let variantCheck = (product) => {
             trackUsingVariant = trackUsingVariant.filter(function (el) {
                 return el !== product.id;
             });
-
             return;
         }
 
@@ -101,7 +98,6 @@ let variantCheck = (product) => {
                 // print info to console
                 console.log('\n');
                 prettyPrint(message);
-
 
                 // invoke notification
                 notifier.notify({
@@ -132,9 +128,9 @@ let clientCheck = (product) => {
     }, (error, response, body) => {
         // TODO: What if data is undefined because of something else?
         if (body.data === undefined) {
-            trackUsingVariant.push(product.id);
+            trackUsingVariant.push(product.pid);
             trackUsingClient = trackUsingClient.filter(function (el) {
-                return el !== product.id;
+                return el !== product.pid;
             });
             console.log();
             prettyError('Could not retrieve info for ' + product.pid);

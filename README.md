@@ -3,17 +3,24 @@ Gives an alert when a tracked adidas product is in stock again.
 
 Features
 --------
-- Push notifications 
-- Automatically opens a link when the product is available 
-- Tracked products are being stored
-- Updates the availability status every minute
+:white_check_mark: Push notifications  
+:white_check_mark: Automatically opens a link when the product is available   
+:white_check_mark: Tracked products are being stored  
+:white_check_mark: Updates the availability status every minute 
 
-![](http://i.imgur.com/VkKXFFE.png)
+![](http://i.imgur.com/Orvw2Qd.png)
+
+Prerequisites
+-------------
+
+[<img src="https://nodejs.org/static/apple-touch-icon.png" align="top" height="35px">](http://nodejs.org)
+
+Tip for Windows users:  [cmder](http://cmder.net/) is a great replacement for the Windows Command Prompt. 
 
 How?
 --------
 1. Clone or download this repository
-2. Open the terminal window and with the terminal, go to the directory where app.js is located
+2. Open a terminal window and with the terminal, go to the directory where app.js is located
 ```
 $ cd adidas-alerter 
 ```
@@ -48,14 +55,9 @@ Note: As of now, this has only been tested with shoes.
 
 Todo
 --------
-- Sizes for US, CA, AU, UK
-- Improve command line arguments
-- Make it even easier to add products to tracking
-- let the user manage a list
+:x: Sizes for US, CA, AU, UK  
+:x: Execute silently (in background)  
+:x: Improve command line arguments  
+:x: Make it even easier to add products to tracking  
+:x: Let the user manage a list  
 
-Prerequisites
--------------
-
-- [<img src="https://nodejs.org/static/apple-touch-icon.png" align="top" height="35px">](http://nodejs.org)
-
-Tip for Windows users:  [cmder](http://cmder.net/) is a great replacement for the Command Promt. 
